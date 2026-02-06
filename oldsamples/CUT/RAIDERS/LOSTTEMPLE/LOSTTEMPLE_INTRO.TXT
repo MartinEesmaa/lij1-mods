@@ -1,0 +1,9 @@
+level_intro
+
+sfx "LostTemple_Intro"
+goto_level "LostTemple_a"
+
+subtitle text_id 1672 start_time 2.5 end_time 6.5 fade_time 0.5 ;"Shortaki land (Martin Eesmaa & welovebirdmom), 2025"
+
+farclip 2000
+nearclip 0.01
