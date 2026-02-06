@@ -6,6 +6,14 @@ Lego Indiana Jones 1 - Martin Eesmaa's mods
 
 ***Alt text: Used to replace textures on BackaTank Classic***
 
+## Pre-requirements
+
+To use my sample mods, you need:
+
+- A copy of Lego Indiana Jones 1: TOA (PC version)
+- QuickBMS with ttgames.bms script
+- Extract .DAT files only using QuickBMS
+
 Please note the mods has been tested by Martin Eesmaa and works on PC version.
 
 Licensed on CC-BY-SA 4.0

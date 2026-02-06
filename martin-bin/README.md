@@ -8,6 +8,12 @@ And most importantly, it has to be extracted with QuickBMS and the ttgames.bms s
 
 For example to replace Indiana Jones character...
 
+## New instruction
+
+You can copy the CHARS\INDIANAJONES folder to Lego Indiana Jones 1 root game folder.
+
+## Old instruction (deprecated)
+
 You can copy (recommended) or rename it:
 
 Windows:
