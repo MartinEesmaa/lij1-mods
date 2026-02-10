@@ -1,0 +1,179 @@
+
+;-------------------------------;
+; AWARDED FOR COMPLETING LEVELS ;
+;-------------------------------;
+
+;---------;
+; RAIDERS ;
+;---------;
+
+;LostTemple
+collect "indianajones" ;available at the start of a new game
+collect "satipo" ;available at the start of a new game
+collect "chuck" story
+
+;CafeRaven
+collect "marion_bar" story
+
+;CairoStreets
+collect "indianajones_desert" story
+collect "marion_cairo" story
+
+;WellOfSouls
+collect "salah_desert" story
+collect "marion_eveningdress" story
+
+;RescueTheArk
+
+;OpeningTheArk
+collect "indianajones_enemyarmy" story
+collect "marion_nightgown" story
+
+;--------;
+; TEMPLE ;
+;--------;
+
+;ShanghaiShowdown
+collect "indianajones_dj" story
+collect "willie_singer" story
+collect "shortround" story
+
+;PankotSecrets
+collect "willie_evening" story
+
+;KalisTemple
+collect "indianajones_kali" story
+
+;FreeTheSlaves
+collect "willie_sacrificial" story
+
+;EscapeTheMines
+
+;BattleOnTheBridge
+
+;---------;
+; CRUSADE ;
+;---------;
+
+;Venice
+collect "indianajones_professor" story
+collect "drschneider_venice" story
+collect "brody" story
+
+;Castle
+collect "prof_henryjones" story
+
+;Escape
+
+;Airship
+
+;Canyon
+collect "Salah_Fez" story
+
+;Trials
+
+;----------;
+; PROLOGUE ;
+;----------;
+
+collect "youngindy" story
+collect "fatboyscout" story
+
+
+
+;----------------------;
+; BUYABLE AT THE START ;
+;----------------------;
+
+
+
+;---------------------------------;
+; BUYABLE AFTER COMPLETING LEVELS ;
+;---------------------------------;
+
+;RAIDERS
+collect "arnoldshortman"
+collect "geraldjohanssen"
+collect "hovitostribesman"       area_complete "losttemple"        buy_in_shop  18000 cheat_code "h0v1ss"
+collect "barranca"               area_complete "losttemple"        buy_in_shop  18000 cheat_code "04em94"
+collect "belloq_jungle"          area_complete "losttemple"        buy_in_shop  50000 cheat_code "tdr197"
+collect "jungle_guide"           area_complete "losttemple"        buy_in_shop  18000 cheat_code "24pf34"
+collect "majortoht"              area_complete "caferaven"         buy_in_shop  50000 cheat_code "13ns01"
+collect "colonel_dietrich"       area_complete "caferaven"         buy_in_shop  50000 cheat_code "2k9rks"
+collect "Enemy_Guard_Nepal"      area_complete "caferaven"  	   buy_in_shop  30000 cheat_code "yr47wm"
+collect "Enemy_BazookaRLA"       area_complete "caferaven"  	   buy_in_shop  30000 cheat_code "s93y5r"
+collect "Sherpa_Brawler"         area_complete "caferaven"  	   buy_in_shop  18000 cheat_code "vj37wj"
+collect "Sherpa_NepalGunner"     area_complete "caferaven"         buy_in_shop  25000 cheat_code "nd762w"
+collect "desert_masked"          area_complete "cairostreets"      buy_in_shop  18000 cheat_code "n48sf0"
+collect "desert_swordsman"       area_complete "cairostreets"      buy_in_shop  25000 cheat_code "1mk4rt"
+collect "enemysoldier_desert"    area_complete "cairostreets"      buy_in_shop  18000 cheat_code "4nsu7q"
+collect "enemy_officer"          area_complete "cairostreets"      buy_in_shop  30000 cheat_code "572e61"
+collect "desert_monkeyman"       area_complete "cairostreets"      buy_in_shop  27500 cheat_code "3rf6yj"
+collect "indianajones_disguised" area_complete "wellofsouls"       buy_in_shop  27500 cheat_code "4j8s4m"
+collect "belloq_desert"          area_complete "wellofsouls"       buy_in_shop  50000 cheat_code "chn3yu"
+collect "enemyofficer_desert"    area_complete "wellofsouls"       buy_in_shop  30000 cheat_code "2mk45o"
+collect "desert_digger"          area_complete "wellofsouls"       buy_in_shop  15000 cheat_code "12n68w"
+collect "Boxer"                  area_complete "rescuetheark"  	   buy_in_shop  25000 cheat_code "8246rb"
+collect "Captain_Katanga"        area_complete "rescuetheark"  	   buy_in_shop  18000 cheat_code "vj3tt3"
+collect "First_Mate"             area_complete "rescuetheark"  	   buy_in_shop  12500 cheat_code "0gin24"
+collect "belloq_priest"          area_complete "openingtheark"     buy_in_shop  50000 cheat_code "veo29l"
+collect "enemy_guard"            area_complete "openingtheark"     buy_in_shop  18000 cheat_code "vj7r51"
+
+;TEMPLE
+collect "kaokan"                 area_complete "shanghaishowdown"  buy_in_shop  25000 cheat_code "wmo46l"
+collect "wuhan"                  area_complete "shanghaishowdown"  buy_in_shop  20000 cheat_code "3nslt8"
+collect "laoche"                 area_complete "shanghaishowdown"  buy_in_shop  19000 cheat_code "2nk479"
+collect "chucin"                 area_complete "shanghaishowdown"  buy_in_shop  18000 cheat_code "3nk48t"
+collect "dancinggirl_b"          area_complete "shanghaishowdown"  buy_in_shop  27500 cheat_code "c7ej21"
+collect "maharaja"               area_complete "pankotsecrets"     buy_in_shop  40000 cheat_code "nfk5n2"
+collect "pankotassassin"         area_complete "pankotsecrets"     buy_in_shop  25000 cheat_code "2nkt72"
+collect "pankotguard"            area_complete "pankotsecrets"     buy_in_shop  18000 cheat_code "vn28rh"
+collect "punjabi_villageelder"   area_complete "pankotsecrets"     buy_in_shop  15000 cheat_code "4682e1"
+collect "punjabi_dignitary"      area_complete "pankotsecrets"     buy_in_shop  15000 cheat_code "kd48tn"
+collect "willie_dj"              area_complete "pankotsecrets"     buy_in_shop  15000 cheat_code "vk93r7"
+collect "willie_pyjamas"         area_complete "pankotsecrets"     buy_in_shop  15000 cheat_code "men4ip"
+collect "chatterlal"             area_complete "pankotsecrets"     buy_in_shop  40000 cheat_code "enw936"
+collect "chatterlal_thuggee"     area_complete "kalistemple"       buy_in_shop  40000 cheat_code "cnh4ry"
+collect "thuggee_priest"         area_complete "kalistemple"       buy_in_shop  30000 cheat_code "t2r3f9"
+collect "thuggee"                area_complete "kalistemple"       buy_in_shop  18000 cheat_code "vm683e"
+collect "slavechild"             area_complete "freetheslaves"     buy_in_shop   3000 cheat_code "0e3enw"
+collect "thuggee_slavedriver"    area_complete "freetheslaves"     buy_in_shop  18000 cheat_code "vbs7gw"
+collect "molaram"                area_complete "battleonthebridge" buy_in_shop  50000 cheat_code "fjur31"
+collect "britishofficer"         area_complete "battleonthebridge" buy_in_shop  25000 cheat_code "vj5ti9"
+collect "british_troop"          area_complete "battleonthebridge" buy_in_shop  18000 cheat_code "dj5i2w"
+collect "british_troopcommander" area_complete "battleonthebridge" buy_in_shop  30000 cheat_code "b73eua"
+
+;CRUSADE
+collect "kazim_venice"           area_complete "venice"            buy_in_shop  30000 cheat_code "nrh23j"
+collect "enemy_butler"           area_complete "castle"            buy_in_shop  15000 cheat_code "vj48w3"
+collect "enemy_comms"            area_complete "castle"            buy_in_shop  25000 cheat_code "1mf94r"
+collect "Enemy_BazookaLC"        area_complete "castle"  	   buy_in_shop  30000 cheat_code "mk83r7"
+collect "IndianaJones_Officer"   area_complete "escape"  	   buy_in_shop  18500 cheat_code "vj85os"
+collect "DrSchneider_Officer"    area_complete "escape"  	   buy_in_shop  15000 cheat_code "vmj5us"
+collect "colonel_vogel"          area_complete "airship"           buy_in_shop  50000 cheat_code "8eal4h"
+collect "enemy_pilot"            area_complete "airship"           buy_in_shop  25000 cheat_code "b84elp"
+collect "kazim_desert"           area_complete "canyon"            buy_in_shop  30000 cheat_code "3m29tj"
+collect "drschneider_desert"     area_complete "canyon"            buy_in_shop  15000 cheat_code "jsnrt9"
+collect "donovan"                area_complete "trials"            buy_in_shop  50000 cheat_code "3nftu8"
+collect "grail_knight"           area_complete "trials"            buy_in_shop 100000 cheat_code "ne6thi"
+
+;PROLOGUE
+collect "fedora"                 area_complete "prologue"          buy_in_shop  25000 cheat_code "v75ysp"
+
+
+
+;--------------------------;
+; BUYABLE (OTHER CRITERIA) ;
+;--------------------------;
+
+collect "hansolo"                supercounter_complete 0           buy_in_shop 100000
+
+;-----------------------;
+; CUSTOMISER CHARACTERS ;
+;-----------------------;
+
+collect "weirdo1"
+collect "weirdo2"
+collect "arnoldshortman"
+collect "geraldjohanssen"
+

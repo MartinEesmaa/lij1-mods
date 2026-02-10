@@ -1,0 +1,1173 @@
+///////////main chars///////////////
+
+//
+// Parents - Do not move Skins before the parents!!!
+//
+char_start
+	dir "IndianaJones"
+	file "IndianaJones"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "HanSolo"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "EnemySoldier_Desert"
+char_end
+
+char_start
+	dir "Marion"
+	file "Marion_bar"
+char_end
+
+char_start
+	dir "Willie"
+	file "Willie_Singer"
+char_end
+
+char_start
+	dir "DrSchneider"
+	file "DrSchneider_Desert"
+char_end
+
+char_start
+	dir "BritishTroops"
+	file "British_Troop"
+char_end
+
+char_start
+	dir "Donovan"
+	file "Donovan"
+char_end
+
+char_start
+	dir "Thuggee"
+	file "Thuggee"
+char_end
+
+char_start
+	dir "Belloq"
+	file "Belloq_Jungle"
+char_end
+
+char_start
+	dir "ShortRound"
+	file "ShortRound"
+char_end
+
+char_start
+	dir "Kazim"
+	file "Kazim_Venice"
+char_end
+
+char_start
+	dir "Kazim"
+	file "BOTCS"
+char_end
+
+char_start
+	dir "ChineseGangsters"
+	file "LaoChe"
+char_end
+
+//
+// Skins
+//
+
+char_start
+	dir "Scarab"
+	file "Bug"
+char_end
+
+char_start
+	dir "Desert"
+	file "Desert_Masked"
+char_end
+
+char_start
+	dir "Desert"
+	file "Desert_Swordsman"
+char_end
+
+char_start
+	dir "Desert"
+	file "Desert_Monkeyman"
+char_end
+
+char_start
+	dir "Desert"
+	file "Desert_Digger"
+char_end
+
+char_start
+	dir "ColonelVogel_Tank"
+	file "ColonelVogel_Tank"
+char_end
+
+char_start
+	dir "Chewbacca"
+	file "Chewbacca"
+char_end
+
+char_start
+	dir "CrowdCharacters"
+	file "CairoCitizen_Male"
+char_end
+
+char_start
+	dir "Willie"
+	file "CairoCitizen_Female"
+char_end
+
+char_start
+	dir "ArmyIntelMen"
+	file "ArmyIntelMan_A"
+char_end
+
+char_start
+	dir "ArmyIntelMen"
+	file "ArmyIntelMan_B"
+char_end
+
+char_start
+	dir "BritishTroops"
+	file "BritishOfficer"
+char_end
+
+char_start
+	dir "BritishTroops"
+	file "British_TroopCommander"
+char_end
+
+char_start
+	dir "Captain_Katanga"
+	file "Captain_Katanga"
+char_end
+
+char_start
+	dir "Willie"
+	file "DancingGirl_A"
+char_end
+
+char_start
+	dir "Willie"
+	file "DancingGirl_B"
+char_end
+
+char_start
+	dir "Donovan"
+	file "Donovan_Boss"
+char_end
+
+char_start
+	dir "Donovan"
+	file "Donovan_Skeleton"
+char_end
+
+char_start
+	dir "Donovan"
+	file "Donovan_CastleBrunwald"
+char_end
+
+char_start
+	dir "Camel"
+	file "Camel"
+char_end
+
+char_start
+	dir "ChatterLal"
+	file "ChatterLal"
+char_end
+
+char_start
+	dir "ChatterLal"
+	file "ChatterLal_Thuggee"
+char_end
+
+char_start
+	dir "DrSchneider"
+	file "DrSchneider_Venice"
+char_end
+
+char_start
+	dir "DrSchneider"
+	file "DrSchneider_Officer"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Colonel_Vogel"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Colonel_Vogel_Canyon"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_Comms"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_BazookaLC"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_BazookaRLA"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "EnemySoldier_Desert_Alt"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_Pilot"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_Guard"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_GuardLC"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_Guard_Motorbike"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_Guard_Nepal"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_Officer"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "EnemyOfficer_Nepal"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "EnemyOfficer_Desert"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "EnemyOfficer_SubPen"
+char_end
+
+char_start
+	dir "Captain_Katanga"
+	file "First_Mate"
+char_end
+
+char_start
+	dir "Barranca"
+	file "Barranca"
+char_end
+
+char_start
+	dir "Salah"
+	file "Brody"
+char_end
+
+char_start
+	dir "Bat"
+	file "Bat"
+char_end
+
+char_start
+	dir "Belloq"
+	file "Belloq_desert"
+char_end
+
+char_start
+	dir "Belloq"
+	file "Belloq_Priest"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Boxer"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Enemy_Butler"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Colonel_Dietrich"
+char_end
+
+char_start
+	dir "FatBoyScout"
+	file "FatBoyScout"
+char_end
+
+char_start
+	dir "Chuck"
+	file "Chuck"
+char_end
+
+char_start
+	dir "Crocodile"
+	file "Crocodile"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "EnemyGoon_Cairo"
+char_end
+
+char_start
+	dir "Elephant"
+	file "elephant"
+char_end
+
+char_start
+	dir "Giraffe"
+	file "Giraffe"
+char_end
+
+char_start
+	dir "Grail_Knight"
+	file "Grail_Knight"
+char_end
+
+char_start
+	dir "Grail_Knight_Cape"
+	file "Grail_Knight_Cape"
+char_end
+
+char_start
+	dir "Grave_Robbers"
+	file "GraveRobber_A"
+char_end
+
+char_start
+	dir "Grave_Robbers"
+	file "GraveRobber_B"
+char_end
+
+char_start
+	dir "HovitosTribesman"
+	file "HovitosTribesman"
+char_end
+
+char_start
+	dir "HovitosTribesman"
+	file "HovitosTribesman_Alt"
+char_end
+
+char_start
+	dir "Horse"
+	file "Horse"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "IndianaJones_ArkOutro"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "IndianaJones_Disguised"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "IndianaJones_Desert"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "Fedora"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "IndianaJones_DJ"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "IndianaJones_EnemyArmy"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "IndianaJones_Professor"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "IndianaJones_Kali"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "IndianaJones_Officer"
+char_end
+
+char_start
+	dir "Jungle_Guides"
+	file "Jungle_Guide"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "YoungIndy"
+char_end
+
+char_start
+	dir "IndySnake"
+	file "IndySnake"
+char_end
+
+char_start
+	dir "IndySpider"
+	file "IndySpider"
+char_end
+
+char_start
+	dir "Scarab"
+	file "Scarab"
+char_end
+
+char_start
+	dir "Kazim"
+	file "Kazim_Desert"
+char_end
+
+char_start
+	dir "Boss_Spider"
+	file "Boss_Spider"
+char_end
+
+char_start
+	dir "Boss_Snake"
+	file "Boss_Snake"
+char_end
+
+char_start
+	dir "Satipo"
+	file "Satipo"
+char_end
+
+char_start
+	dir "Rat"
+	file "Rat"
+char_end
+
+char_start
+	dir "ChineseGangsters"
+	file "Shanghai_Hoodlum"
+char_end
+
+char_start
+	dir "ChineseGangsters"
+	file "Shanghai_Hoodlum_B"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Sherpa_Brawler"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Sherpa_NepalGunner"
+char_end
+
+
+char_start
+	dir "ThuggeeStatue"
+	file "ThuggeeStatue"
+char_end
+
+char_start
+	dir "BiPlane"
+	file "BiPlane"
+char_end
+
+char_start
+	dir "Salah"
+	file "Salah"
+char_end
+
+char_start
+	dir "Santa"
+	file "Santa"
+char_end
+
+char_start
+	dir "Salah"
+	file "Salah_Desert"
+char_end
+
+char_start
+	dir "Salah"
+	file "Salah_fez"
+char_end
+
+char_start
+	dir "Llama"
+	file "Llama"
+char_end
+
+char_start
+	dir "LukeSkywalker_Hoth"
+	file "LukeSkywalker_Hoth"
+char_end
+
+char_start
+	dir "Lion"
+	file "Lion"
+char_end
+
+char_start
+	dir "Librarian"
+	file "Librarian"
+char_end
+
+char_start
+	dir "Marion"
+	file "Marion_ArkOutro"
+char_end
+
+char_start
+	dir "Shortround"
+	file "Maharaja"
+char_end
+
+char_start
+	dir "Shortround"
+	file "Maharaja_Thuggee"
+char_end
+
+char_start
+	dir "Marion"
+	file "Marion_Nightgown"
+char_end
+
+char_start
+	dir "Marion"
+	file "Marion_Cairo"
+char_end
+
+char_start
+	dir "Marion"
+	file "Marion_EveningDress"
+char_end
+
+char_start
+	dir "Mummy"
+	file "Mummy"
+char_end
+
+
+char_start
+	dir "Newspaper"
+	file "Newspaper"
+char_end
+
+char_start
+	dir "EnemySoldier"
+	file "Mechanic"
+char_end
+
+
+
+char_start
+	dir "Willie"
+	file "Willie_DJ"
+char_end
+
+char_start
+	dir "Willie"
+	file "Willie_Pyjamas"
+char_end
+
+char_start
+	dir "Willie"
+	file "Willie_Sacrificial"
+char_end
+
+char_start
+	dir "Willie"
+	file "Willie_Evening"
+char_end
+
+char_start
+	dir "MajorToht"
+	file "MajorToht"
+char_end
+
+char_start
+	dir "Omar"
+	file "Omar"
+char_end
+
+char_start
+	dir "Thuggee"
+	file "MolaRam"
+char_end
+
+char_start
+	dir "ChineseGangsters"
+	file "KaoKan"
+char_end
+
+char_start
+	dir "CrowdCharacters"
+	file "ShanghaiCitizen_Male"
+char_end
+
+char_start
+	dir "Willie"
+	file "ShanghaiCitizen_Female"
+char_end
+
+char_start
+	dir "CrowdCharacters"
+	file "Student_Male"
+char_end
+
+char_start
+	dir "Willie"
+	file "Student_Female"
+char_end
+
+char_start
+	dir "CrowdCharacters"
+	file "VeniceCitizen_Male"
+char_end
+
+char_start
+	dir "Willie"
+	file "VeniceCitizen_Female"
+char_end
+
+char_start
+	dir "CrowdCharacters"
+	file "Party_Guests"
+char_end
+
+char_start
+	dir "CrowdCharacters"
+	file "ZepplinPassenger_Male"
+char_end
+
+char_start
+	dir "willie"
+	file "ZepplinPassenger_Female"
+char_end
+
+char_start
+	dir "ChineseGangsters"
+	file "WuHan"
+char_end
+
+char_start
+	dir "ChineseGangsters"
+	file "ChuCin"
+char_end
+
+char_start
+	dir "Monkey"
+	file "Monkey"
+char_end
+
+char_start
+	dir "Punjabi_VillageElder"
+	file "Punjabi_VillageElder"
+char_end
+
+char_start
+	dir "Punjabi_VillageElder"
+	file "Punjabi_Male"
+char_end
+
+char_start
+	dir "Punjabi_VillageElder"
+	file "Punjabi_Male_Sacrifice"
+char_end
+
+char_start
+	dir "Punjabi_VillageElder"
+	file "Punjabi_Female"
+char_end
+
+char_start
+	dir "Punjabi_Dignitary"
+	file "Punjabi_Dignitary"
+char_end
+
+char_start
+	dir "Prof_HenryJones"
+	file "Prof_HenryJones"
+char_end
+
+char_start
+	dir "PrincessLeia"
+	file "PrincessLeia"
+char_end
+
+char_start
+	dir "ShortRound"
+	file "SlaveChild"
+char_end
+
+char_start
+	dir "Thuggee"
+	file "PankotAssassin"
+char_end
+
+char_start
+	dir "Thuggee"
+	file "PankotGuard"
+char_end
+
+char_start
+	dir "Thuggee"
+	file "Thuggee_Priest"
+char_end
+
+char_start
+	dir "Thuggee"
+	file "Thuggee_SlaveDriverChief"
+char_end
+
+char_start
+	dir "Thuggee"
+	file "Thuggee_SlaveDriver"
+char_end
+
+char_start
+	dir "Ghost"
+	file "Ghost"
+char_end
+
+///////////RotLA vehicles///////////////
+
+char_start
+	dir "jeepGunner"
+	file "jeepGunner"
+char_end
+
+char_start
+	dir "transportTruck"
+	file "transportTruck"
+char_end
+
+char_start
+	dir "fightTruck"
+	file "fightTruck"
+char_end
+
+char_start
+	dir "Bicycle"
+	file "Bicycle"
+char_end
+
+char_start
+	dir "Rickshaw"
+	file "Rickshaw"
+char_end
+
+char_start
+	dir "staffCar"
+	file "staffCar"
+char_end
+
+char_start
+	dir "motorbike"
+	file "motorbike"
+char_end
+char_start
+	dir "motorbike"
+	file "motorbikeB"
+char_end
+char_start
+	dir "motorbike"
+	file "motorbikeG"
+char_end
+
+char_start
+	dir "motorbikeCrusade"
+	file "motorbikeCrusade"
+char_end
+
+char_start
+	dir "ArcCutTruck"
+	file "ArcCutTruck"
+char_end
+
+char_start
+	dir "flyingWing"
+	file "flyingWing"
+char_end
+
+char_start
+	dir "raft"
+	file "raft"
+char_end
+
+char_start
+	dir "miniDigger"
+	file "miniDigger"
+char_end
+
+char_start
+	dir "forkLift"
+	file "forkLift"
+char_end
+
+char_start
+	dir "launchBoat"
+	file "launchBoat"
+char_end
+
+char_start
+	dir "uBoatCannon"
+	file "uBoatCannon"
+char_end
+
+
+///////////ToD vehicles///////////////
+
+char_start
+	dir "whitecar"
+	file "whitecar"
+char_end
+
+char_start
+	dir "reoCar"
+	file "reoCar"
+char_end
+
+char_start
+	dir "mineKart"
+	file "mineKart"
+char_end
+
+char_start
+	dir "dingy"
+	file "dingy"
+char_end
+
+char_start
+	dir "laoChePlane"
+	file "laoChePlane"
+char_end
+
+char_start
+	dir "gong"
+	file "gong"
+char_end
+
+char_start
+	dir "rickshawToD"
+	file "rickshawToD"
+char_end
+
+char_start
+	dir "forkLiftToD"
+	file "forkLiftToD"
+char_end
+
+
+char_start
+	dir "seagull"
+	file "seagull"
+char_end
+
+
+///////////TLC vehicles///////////////
+
+char_start
+	dir "SpeedBoat"
+	file "SpeedBoat"
+char_end
+
+char_start
+	dir "enemySpdBoat"
+	file "enemySpdBoat"
+char_end
+
+char_start
+	dir "spdBoatVenice"
+	file "spdBoatVenice"
+char_end
+
+char_start
+	dir "gondola"
+	file "gondola"
+char_end
+
+char_start
+	dir "bikeNside"
+	file "bikeNside"
+char_end
+
+char_start
+	dir "tank"
+	file "tank"
+char_end
+
+char_start
+	dir "tankMkII"
+	file "tankMkII"
+char_end
+
+char_start
+	dir "canyonTruck"
+	file "canyonTruck"
+char_end
+
+char_start
+	dir "germanBiPlane"
+	file "germanBiPlane"
+char_end
+
+char_start
+	dir "pilatusPlane"
+	file "pilatusPlane"
+char_end
+
+char_start
+	dir "airAttackCar"
+	file "airAttackCar"
+char_end
+
+char_start
+	dir "airCannon"
+	file "airCannon"
+char_end
+
+char_start
+	dir "zepplin"
+	file "zepplin"
+char_end
+
+char_start
+	dir "bus"
+	file "bus"
+char_end
+
+char_start
+	dir "rcCopter"
+	file "rcCopter"
+char_end
+
+char_start
+	dir "tractor"
+	file "tractor"
+char_end
+
+char_start
+	dir "scooter"
+	file "scooter"
+char_end
+
+char_start
+	dir "snowMobile"
+	file "snowMobile"
+char_end
+
+////////////MINIKITS/////////////
+char_start
+	dir "relics\relic_sphinx"
+	file "relic_sphinx"
+char_end
+
+char_start
+	dir "relics\relic_diamond"
+	file "relic_diamond"
+char_end
+
+char_start
+	dir "relics\relic_jadedragon"
+	file "relic_jadedragon"
+char_end
+
+char_start
+	dir "relics\relic_eagle"
+	file "relic_eagle"
+char_end
+
+char_start
+	dir "relics\relic_giltframe"
+	file "relic_giltframe"
+char_end
+
+char_start
+	dir "relics\relic_amphora"
+	file "relic_amphora"
+char_end
+
+char_start
+	dir "relics\relic_armour"
+	file "relic_armour"
+char_end
+
+char_start
+	dir "relics\relic_hovitos"
+	file "relic_hovitos"
+char_end
+
+char_start
+	dir "relics\relic_skull"
+	file "relic_skull"
+char_end
+
+char_start
+	dir "relics\relic_fakegrail"
+	file "relic_fakegrail"
+char_end
+
+char_start
+	dir "relics\relic_monkey"
+	file "relic_monkey"
+char_end
+
+char_start
+	dir "relics\relic_ark"
+	file "relic_ark"
+char_end
+
+char_start
+	dir "relics\relic_elephant"
+	file "relic_elephant"
+char_end
+
+char_start
+	dir "relics\relic_dino"
+	file "relic_dino"
+char_end
+
+char_start
+	dir "relics\relic_headdress"
+	file "relic_headdress"
+char_end
+
+char_start
+	dir "relics\relic_anubis"
+	file "relic_anubis"
+char_end
+
+char_start
+	dir "relics\relic_shield"
+	file "relic_shield"
+char_end
+
+char_start
+	dir "relics\relic_piramid"
+	file "relic_piramid"
+char_end
+
+///////////oddsandsodds//////////
+
+char_start
+	dir "Satchel"
+	file "Satchel"
+char_end
+
+char_start
+	dir "Whip"
+	file "Whip"
+char_end
+
+char_start
+	dir "Rope"
+	file "Rope"
+char_end
+
+/////////////////////////////////
+
+char_start
+	dir "Grabber"
+	file "Grabber"
+char_end
+
+char_start
+	dir "GrabberControl"
+	file "GrabberControl"
+char_end
+
+char_start
+	dir "crane"
+	file "crane"
+char_end
+
+///////////weirdo//////////
+
+char_start
+	dir "IndianaJones"
+	file "weirdo1"
+char_end
+
+char_start
+	dir "IndianaJones"
+	file "weirdo2"
+char_end
+
+/////////////LSW/////////////////
+char_start
+	dir "C3PO"
+	file "C3PO"
+char_end
+
+char_start
+	dir "R2D2"
+	file "R2D2"
+char_end
+
+char_start
+	dir "Chewbacca"
+	file "Chewbacca"
+char_end
+
+char_start
+	dir "PrincessLeia"
+	file "PrincessLeia"
+char_end
+
+
+char_start
+	dir "LUKESKYWALKER_HOTH"
+	file "LUKESKYWALKER_HOTH"
+char_end
+
+char_start
+	dir "LEGO_Engineer"
+	file "LEGO_Engineer"
+char_end
+
+char_start
+	dir "ARNOLDSHORTMAN"
+	file "ARNOLDSHORTMAN"
+char_end
+
+char_start
+	dir "GERALDJOHANSSEN"
+	file "GERALDJOHANSSEN"
+char_end
