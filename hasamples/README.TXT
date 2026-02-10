@@ -4,6 +4,8 @@ Arnold Shortman - CHARS\ARNOLDSHORTMAN (name_id=201)
 Gerald Johanssen - CHARS\GERALDJOHANSSEN (name_id=202)
 
 Modded by Martin Eesmaa (2026)
+Source project: https://github.com/MartinEesmaa/lij1-mods
+Source folder: https://github.com/MartinEesmaa/lij1-mods/tree/main/hasamples
 Licensed under CC-BY-SA 4.0.
 
 Common files were included on CHARS folder:
