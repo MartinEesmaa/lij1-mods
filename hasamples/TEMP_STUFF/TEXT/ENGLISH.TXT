@@ -615,7 +615,7 @@
 ;
 1656 "BONUS LEVELS"
 
-1672 "Shortaki land (Martin Eesmaa & welovebirdmom), 2025"
+1672 "South America, 1936"
 1673 "Trailer"
 1674 "All Extras unlocked"
 1675 "Shanghai, 1935"
