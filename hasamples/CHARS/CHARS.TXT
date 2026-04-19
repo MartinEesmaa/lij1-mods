@@ -1171,3 +1171,8 @@ char_start
 	dir "GERALDJOHANSSEN"
 	file "GERALDJOHANSSEN"
 char_end
+
+char_start
+	dir "HELGAPATAKI"
+	file "HELGAPATAKI"
+char_end

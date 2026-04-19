@@ -159,6 +159,7 @@
 199 "Mine Cart"
 201 "Arnold Shortman"
 202 "Gerald Johanssen"
+203 "Helga Pataki"
 
 ;
 ; New game text

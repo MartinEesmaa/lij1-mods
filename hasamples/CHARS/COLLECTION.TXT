@@ -92,8 +92,6 @@ collect "fatboyscout" story
 ;---------------------------------;
 
 ;RAIDERS
-collect "arnoldshortman"
-collect "geraldjohanssen"
 collect "hovitostribesman"       area_complete "losttemple"        buy_in_shop  18000 cheat_code "h0v1ss"
 collect "barranca"               area_complete "losttemple"        buy_in_shop  18000 cheat_code "04em94"
 collect "belloq_jungle"          area_complete "losttemple"        buy_in_shop  50000 cheat_code "tdr197"
@@ -176,4 +174,5 @@ collect "weirdo1"
 collect "weirdo2"
 collect "arnoldshortman"
 collect "geraldjohanssen"
+collect "helgapataki"
 
