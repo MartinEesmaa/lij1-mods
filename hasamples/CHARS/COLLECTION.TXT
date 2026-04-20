@@ -172,7 +172,7 @@ collect "hansolo"                supercounter_complete 0           buy_in_shop 1
 
 collect "weirdo1"
 collect "weirdo2"
-collect "arnoldshortman"
-collect "geraldjohanssen"
-collect "helgapataki"
+collect "arnoldshortman"         buy_in_shop 0 cheat_code "arnold"
+collect "geraldjohanssen"        buy_in_shop 0 cheat_code "gerald"
+collect "helgapataki"            buy_in_shop 0 cheat_code "helga"
 
