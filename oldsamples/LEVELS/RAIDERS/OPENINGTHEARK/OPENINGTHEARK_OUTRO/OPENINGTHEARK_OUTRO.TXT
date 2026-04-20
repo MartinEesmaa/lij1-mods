@@ -1,0 +1,3 @@
+cutscene_character "ghost"
+cutscene_character "majortoht"
+cutscene_character "belloq_priest"
